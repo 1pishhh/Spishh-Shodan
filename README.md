@@ -37,4 +37,4 @@ python Spishh_Shodan.py
 Please ensure you follow Shodan's API usage policy while using this script. This script is for educational purposes only. The author is not responsible for any misuse or consequences resulting from the use of this script.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the MIT-LICENSE.txt file for details.
